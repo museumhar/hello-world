@@ -1,3 +1,3 @@
 # hello-world
 Git hub Flow
-museum student
+I am a museum student.
